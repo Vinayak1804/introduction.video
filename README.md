@@ -1,2 +1,2 @@
-# introduction.video
+# Introduction.video
 My introduction video
