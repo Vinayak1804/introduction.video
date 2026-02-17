@@ -18,8 +18,7 @@ The video explains:
 ## 🔗 Watch the Introduction Video
 
 Click the link below to watch the video:
-
-👉 [Watch Introduction Video](YOUR_GOOGLE_DRIVE_LINK_HERE)
+https://drive.google.com/file/d/1_7bjK8UwMC8K7UQDjZX9FJhlVm0C-f13/view?usp=sharing
 
 > Note: The video is hosted on Google Drive.  
 > Make sure sharing is set to **"Anyone with the link can view"**.
